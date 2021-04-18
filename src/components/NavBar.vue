@@ -5,7 +5,7 @@
     >
       <mdi-account />
       <p class="font-thin tracking-wider">
-        Notes<span class="font-bold">App</span>
+        MyNotes<span class="font-bold">App</span>
       </p>
     </div>
   </div>

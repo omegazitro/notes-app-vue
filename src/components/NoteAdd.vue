@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-orange-400 text-orange-800 rounded space-y-2 flex justify-center items-center"
+    class="bg-white text-black-500 rounded space-y-2 flex justify-center items-center"
   >
     <button
       @click="showToggle"
